@@ -1,7 +1,6 @@
-# iUI API
+ # iUI 
 
-This is the API module of the **iUI** repository.
-A lightweight, flexible inventory UI library for Bukkit/Spigot plugins. Easily create custom GUIs for your Minecraft server with minimal code.
+**iUI** is a lightweight, flexible inventory UI library for Paper plugins. Easily create custom GUIs for your Minecraft server with minimal code.
 
 ## Features
 - Simple API for creating inventory-based UIs
@@ -9,7 +8,7 @@ A lightweight, flexible inventory UI library for Bukkit/Spigot plugins. Easily c
 - Async event handling
 - Customizable titles, backgrounds, and sounds
 
-## Installation (API module only)
+## Installation
 
 Add the following to your `build.gradle` or `pom.xml` using [JitPack](https://jitpack.io):
 
